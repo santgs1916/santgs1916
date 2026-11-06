@@ -12,7 +12,7 @@
 
 ## Qué cambió
 - **Pared del TV (≈3,2 m)**: el TV queda centrado sobre un panel blanco retroiluminado de ≈1,40 × 1,35 m.
-  A cada lado hay una columna de listones de madera de ≈45 cm, de piso a techo, con LED vertical.
+  A cada lado hay una columna de listones de madera de ≈64 cm, de piso a techo, con LED vertical.
 - **Repisa larga flotante** gris grafito, de ≈2,6 m, a 2,12 m de altura, con LED abajo.
   Lleva planta colgante, figura, libros, jarrón y un carro a escala.
 - **3 repisas pequeñas** a la izquierda del panel, con tu carro rojo a escala, los audífonos en soporte, una planta y juegos.
@@ -20,6 +20,8 @@
 - **Escritorio gamer** en lugar del mueble con la alcancía y la bolsa rosada: escritorio grafito de 1,45 × 0,6 m
   contra la pared derecha, con torre blanca de vidrio, monitor de 27", teclado, mouse y silla. Sin cables a la vista.
 - Se quitaron el escritorio de debajo del TV, el ventilador, la ropa y el rascador del gato (puedes ubicarlo en otro lugar).
-- LED blanco neutro (≈4300 K) en todo. Paredes blancas y piso de baldosa igual al actual.
+- LED blanco neutro (≈4300 K) en listones, repisas y mueble. Paredes blancas y piso de baldosa igual al actual.
+- **Luz RGB detrás del TV (tipo ambilight)**: 18 segmentos que toman el color del borde de la imagen del TV.
+  Monta el TV con el soporte a ≈3 cm del panel para que se forme el halo.
 
 > Las medidas son aproximadas, calculadas desde la foto y el video. Mide antes de comprar.
